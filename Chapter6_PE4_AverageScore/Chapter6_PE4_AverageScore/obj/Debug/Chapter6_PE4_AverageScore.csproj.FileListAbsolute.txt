@@ -1,0 +1,7 @@
+C:\Users\unite\source\repos\Chapter6_PE4_AverageScore\Chapter6_PE4_AverageScore\bin\Debug\Chapter6_PE4_AverageScore.exe.config
+C:\Users\unite\source\repos\Chapter6_PE4_AverageScore\Chapter6_PE4_AverageScore\bin\Debug\Chapter6_PE4_AverageScore.exe
+C:\Users\unite\source\repos\Chapter6_PE4_AverageScore\Chapter6_PE4_AverageScore\bin\Debug\Chapter6_PE4_AverageScore.pdb
+C:\Users\unite\source\repos\Chapter6_PE4_AverageScore\Chapter6_PE4_AverageScore\obj\Debug\Chapter6_PE4_AverageScore.csprojAssemblyReference.cache
+C:\Users\unite\source\repos\Chapter6_PE4_AverageScore\Chapter6_PE4_AverageScore\obj\Debug\Chapter6_PE4_AverageScore.csproj.CoreCompileInputs.cache
+C:\Users\unite\source\repos\Chapter6_PE4_AverageScore\Chapter6_PE4_AverageScore\obj\Debug\Chapter6_PE4_AverageScore.exe
+C:\Users\unite\source\repos\Chapter6_PE4_AverageScore\Chapter6_PE4_AverageScore\obj\Debug\Chapter6_PE4_AverageScore.pdb

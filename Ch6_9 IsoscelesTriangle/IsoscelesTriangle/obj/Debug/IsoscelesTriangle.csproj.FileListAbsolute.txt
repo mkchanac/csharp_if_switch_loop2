@@ -1,0 +1,7 @@
+C:\Users\unite\source\repos\IsoscelesTriangle\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+C:\Users\unite\source\repos\IsoscelesTriangle\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+C:\Users\unite\source\repos\IsoscelesTriangle\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+C:\Users\unite\source\repos\IsoscelesTriangle\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.csprojAssemblyReference.cache
+C:\Users\unite\source\repos\IsoscelesTriangle\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.csproj.CoreCompileInputs.cache
+C:\Users\unite\source\repos\IsoscelesTriangle\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+C:\Users\unite\source\repos\IsoscelesTriangle\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

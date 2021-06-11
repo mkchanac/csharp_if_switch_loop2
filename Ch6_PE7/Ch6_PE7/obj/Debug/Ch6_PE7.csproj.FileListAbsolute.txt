@@ -1,0 +1,7 @@
+C:\Users\unite\source\repos\Ch6_PE7\Ch6_PE7\bin\Debug\Ch6_PE7.exe.config
+C:\Users\unite\source\repos\Ch6_PE7\Ch6_PE7\bin\Debug\Ch6_PE7.exe
+C:\Users\unite\source\repos\Ch6_PE7\Ch6_PE7\bin\Debug\Ch6_PE7.pdb
+C:\Users\unite\source\repos\Ch6_PE7\Ch6_PE7\obj\Debug\Ch6_PE7.csprojAssemblyReference.cache
+C:\Users\unite\source\repos\Ch6_PE7\Ch6_PE7\obj\Debug\Ch6_PE7.csproj.CoreCompileInputs.cache
+C:\Users\unite\source\repos\Ch6_PE7\Ch6_PE7\obj\Debug\Ch6_PE7.exe
+C:\Users\unite\source\repos\Ch6_PE7\Ch6_PE7\obj\Debug\Ch6_PE7.pdb
